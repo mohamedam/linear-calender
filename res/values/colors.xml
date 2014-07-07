@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="calender_month_label">#ff666666</color>
+    <color name="calendar_month_background">#ffEEEEEE</color>
+    <!-- <color name="line_inner_horizontal_color">#FFCCCCCC</color> -->
+    <color name="line_inner_horizontal_color">#ffffffff</color>
+    <color name="calender_day_background">#ffe0e0e0</color>
+    <color name="saturday_sunday_color">#ff5db7ff</color>
+    <color name="calender_day_label">#ff666666</color>
+    <color name="calender_hour_label">#ff666666</color>
+    <color name="calender_background_selected_hour">#ffa32828</color>
+    <color name="new_event_text_color">#FFFFFFFF</color>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+    <style name="AppTheme" parent="@android:style/Theme.Light" >
+        
+    </style>
+    -->
+
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light"></style>
+    <!--
+<item type="xml" name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+   <item type="xml" name="displayOptions">showHome|homeAsUp|showTitle</item>
+<item type="xml" 	name="android:icon"></item>
+    -->
+
+</resources>
